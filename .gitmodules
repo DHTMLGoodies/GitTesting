@@ -1,0 +1,5 @@
+[submodule "GitTestingSubRepo"]
+	branch = stable
+[submodule "GitSubRepo2"]
+	path = GitSubRepo2
+	url = git@github.com:DHTMLGoodies/GitSubRepo2.git
